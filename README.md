@@ -8,7 +8,9 @@ Check out the live version here: [Live Link](https://spotifycloneid.netlify.app/
 
 ## 📸 Preview
 
-![Preview Screenshot](<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/4caa188d-eda3-40b3-ac19-be77625fac78" />)  
+![Preview Screenshot]
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/536f7da1-c106-4374-a0b5-8ceecfee621a" />
+
 
 ## 💡 Features
 
